@@ -1,8 +1,0 @@
-.gallery__item {
-    display: flex;
-    justify-content: center;
-}
-.gallery__img {
-    width: 1200px;
-    margin-bottom: 40px;
-}
